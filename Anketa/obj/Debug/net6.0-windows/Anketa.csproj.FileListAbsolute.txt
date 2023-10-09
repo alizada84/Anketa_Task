@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\bin\Debug\net6.0-windows\Anketa.exe
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\bin\Debug\net6.0-windows\Anketa.deps.json
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\bin\Debug\net6.0-windows\Anketa.runtimeconfig.json
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\bin\Debug\net6.0-windows\Anketa.dll
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\bin\Debug\net6.0-windows\Anketa.pdb
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\obj\Debug\net6.0-windows\Anketa.Form1.resources
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\obj\Debug\net6.0-windows\Anketa.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\obj\Debug\net6.0-windows\Anketa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\obj\Debug\net6.0-windows\Anketa.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\obj\Debug\net6.0-windows\Anketa.AssemblyInfo.cs
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\obj\Debug\net6.0-windows\Anketa.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\obj\Debug\net6.0-windows\Anketa.dll
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\obj\Debug\net6.0-windows\refint\Anketa.dll
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\obj\Debug\net6.0-windows\Anketa.pdb
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\obj\Debug\net6.0-windows\Anketa.genruntimeconfig.cache
+C:\Users\User\source\repos\WinForms\Anketa\Anketa\obj\Debug\net6.0-windows\ref\Anketa.dll
